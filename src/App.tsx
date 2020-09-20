@@ -1,5 +1,6 @@
 import React from 'react';
 import "./app.css";
+import logo from "./logo.jpg";
 
 export default function App() {
   return (
@@ -12,13 +13,13 @@ export default function App() {
 function Header() {
   return (
       <header className="app-header">
-        <img src="/logo.jpg" className="app-logo" alt="Atef Ben Ali logo" />
+        <img src={logo} className="app-logo" alt="Atef Ben Ali logo" />
         <p>
           My Carrer as an app.
         </p>
         <a
           className="app-link"
-          href="/career"
+          href="#career"
           rel="noopener noreferrer"
         >
           Go through my career!
