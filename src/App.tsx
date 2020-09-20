@@ -4,6 +4,13 @@ import "./app.css";
 export default function App() {
   return (
     <div className="app">
+    	<Header />
+    </div>
+  );
+}
+
+function Header() {
+  return (
       <header className="app-header">
         <img src="/logo.jpg" className="app-logo" alt="Atef Ben Ali logo" />
         <p>
@@ -17,6 +24,5 @@ export default function App() {
           Go through my career!
         </a>
       </header>
-    </div>
   );
 }
