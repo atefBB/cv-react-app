@@ -10,7 +10,7 @@ export default function Header() {
         </p>
         <a
           className="app-link"
-          href="#career"
+          href="/career"
           rel="noopener noreferrer"
         >
           Go through my career!
