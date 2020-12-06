@@ -34,6 +34,7 @@ function Me() {
 export default function Career() {
   return (
     <React.Fragment>
+      <h2 style={{ color: "#fff", fontSize: "30px" }}>Work & Education</h2>
       <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
