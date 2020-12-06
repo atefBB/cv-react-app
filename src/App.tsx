@@ -8,6 +8,7 @@ export default function App() {
     <React.Fragment>
       <div className="app">
         <Header />
+        <Career />
       </div>
     </React.Fragment>
   );
