@@ -7,11 +7,9 @@ import "./app.css";
 
 export default function App() {
   return (
-    <React.Fragment>
-      <div className="app">
-        <Header />
-        <Career />
-      </div>
-    </React.Fragment>
+    <div className="app">
+      <Header />
+      <Career />
+    </div>
   );
 }
