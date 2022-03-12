@@ -1,7 +1,9 @@
 import React from "react";
+
+import { Header } from "./components/Header";
+import { Career } from "./components/Career";
+
 import "./app.css";
-import Header from "./components/Header";
-import Career from "./components/Career";
 
 export default function App() {
   return (
