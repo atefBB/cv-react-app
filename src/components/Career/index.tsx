@@ -1,37 +1,16 @@
 import React from "react";
 import {
   VerticalTimeline,
-  VerticalTimelineElement
+  VerticalTimelineElement,
 } from "react-vertical-timeline-component";
+
+import { Logo } from "./Logo";
+import { WorkIcon } from "./WorkIcon";
+import { SchoolIcon } from "./SchoolIcon";
+
 import "react-vertical-timeline-component/style.min.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faLaptopCode,
-  faGraduationCap
-} from "@fortawesome/free-solid-svg-icons";
 
-import logo from "../logo.jpg";
-
-function WorkIcon() {
-  return <FontAwesomeIcon icon={faLaptopCode} />;
-}
-
-function SchoolIcon() {
-  return <FontAwesomeIcon icon={faGraduationCap} />;
-}
-
-function Me() {
-  return (
-    <img
-      src={logo}
-      className="app-logo"
-      style={{ width: "60px", height: "60px" }}
-      alt="Atef Ben Ali logo"
-    />
-  );
-}
-
-export default function Career() {
+export function Career() {
   return (
     <React.Fragment>
       <h2 style={{ color: "#fff", fontSize: "30px" }}>Work & Education</h2>
@@ -40,7 +19,7 @@ export default function Career() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
-          icon={<Me />}
+          icon={<Logo />}
         >
           <h3 className="vertical-timeline-element-title">Atef Ben Ali</h3>
           <h4 className="vertical-timeline-element-subtitle">
