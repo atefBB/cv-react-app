@@ -55,11 +55,5 @@
         "prettier": "^2.5.1",
         "pretty-quick": "^3.0.2",
         "typescript": "~3.7.2"
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "pretty-quick --staged",
-            "commit-msg": "yarn commitlint --edit $1"
-        }
     }
 }
