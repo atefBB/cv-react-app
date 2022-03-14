@@ -1,14 +1,9 @@
 import React from "react";
-import {
-    VerticalTimeline,
-    VerticalTimelineElement,
-} from "react-vertical-timeline-component";
+import { VerticalTimeline } from "react-vertical-timeline-component";
 
-import { Logo } from "./Logo";
-import { WorkIcon } from "./WorkIcon";
-import { SchoolIcon } from "./SchoolIcon";
 import { MainTitle } from "./MainTitle";
 import { TimelineItemType, TimelineItemWrapper } from "./TimelineItemWrapper";
+import { careerTimelineItems } from "./career";
 
 import "react-vertical-timeline-component/style.min.css";
 
