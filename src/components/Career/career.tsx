@@ -22,7 +22,7 @@ export const careerTimelineItems: TimelineItemType[] = [
     {
         title: "Web Developer",
         address: "Golaa, Kebili, Tunisia",
-        details: "Web developer, Project Manager in Aures Company",
+        details: "Web developer, Project Manager in Leader Solution Tactile",
         icon: <WorkIcon />,
         iconStyle: {
             background: "rgb(33, 150, 243)",
@@ -44,7 +44,7 @@ export const careerTimelineItems: TimelineItemType[] = [
     {
         title: "Web Developer",
         address: "Sfax, Tunisia",
-        details: "Full-stack web developer in Novatis Web agency",
+        details: "Web developer in Novatis Web agency",
         date: "06/2016 - 01/2019",
         iconStyle: {
             background: "rgb(33, 150, 243)",
