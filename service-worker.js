@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-    "/cv-react-app/precache-manifest.67e4dfe9650be85a7727514b3153d3b9.js"
+    "/cv-react-app/precache-manifest.5e2c8b1f34b56b22d3f2cd13eb9a40f2.js"
 );
 
 self.addEventListener("message", (event) => {
