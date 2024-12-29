@@ -75,7 +75,7 @@ export const careerTimelineItems: TimelineItemType[] = [
         icon: <SchoolIcon />,
     },
     {
-        title: "Computer Sciences Baccalaureat",
+        title: "Computer Sciences Baccalaureate",
         address: "Douz, Kebili, Tunisia",
         details: "",
         date: "June 2008",
