@@ -21,6 +21,17 @@ export const careerTimelineItems: TimelineItemType[] = [
     },
     {
         title: "Web Developer",
+        address: "Remote",
+        details: "Web developer in MawadOnline",
+        icon: <WorkIcon />,
+        iconStyle: {
+            background: "rgb(33, 150, 243)",
+            color: "#fff",
+        },
+        date: "10/2024 - present",
+    },
+    {
+        title: "Web Developer",
         address: "Golaa, Kebili, Tunisia",
         details: "Web developer & Project Manager in Leader Solution Tactile",
         icon: <WorkIcon />,
@@ -28,7 +39,7 @@ export const careerTimelineItems: TimelineItemType[] = [
             background: "rgb(33, 150, 243)",
             color: "#fff",
         },
-        date: "11/2020 - present",
+        date: "11/2020 - 08/2024",
     },
     {
         title: "Web Developer",
