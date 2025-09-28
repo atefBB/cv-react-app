@@ -1,26 +1,26 @@
 {
-    "files": {
-        "main.css": "/cv-react-app/static/css/main.8c84e10c.chunk.css",
-        "main.js": "/cv-react-app/static/js/main.c1d7a49a.chunk.js",
-        "main.js.map": "/cv-react-app/static/js/main.c1d7a49a.chunk.js.map",
-        "runtime-main.js": "/cv-react-app/static/js/runtime-main.62308d67.js",
-        "runtime-main.js.map": "/cv-react-app/static/js/runtime-main.62308d67.js.map",
-        "static/css/2.22ca87da.chunk.css": "/cv-react-app/static/css/2.22ca87da.chunk.css",
-        "static/js/2.3bae9d02.chunk.js": "/cv-react-app/static/js/2.3bae9d02.chunk.js",
-        "static/js/2.3bae9d02.chunk.js.map": "/cv-react-app/static/js/2.3bae9d02.chunk.js.map",
-        "index.html": "/cv-react-app/index.html",
-        "precache-manifest.5e2c8b1f34b56b22d3f2cd13eb9a40f2.js": "/cv-react-app/precache-manifest.5e2c8b1f34b56b22d3f2cd13eb9a40f2.js",
-        "service-worker.js": "/cv-react-app/service-worker.js",
-        "static/css/2.22ca87da.chunk.css.map": "/cv-react-app/static/css/2.22ca87da.chunk.css.map",
-        "static/css/main.8c84e10c.chunk.css.map": "/cv-react-app/static/css/main.8c84e10c.chunk.css.map",
-        "static/js/2.3bae9d02.chunk.js.LICENSE.txt": "/cv-react-app/static/js/2.3bae9d02.chunk.js.LICENSE.txt",
-        "static/media/logo.jpg": "/cv-react-app/static/media/logo.d809dc68.jpg"
-    },
-    "entrypoints": [
-        "static/js/runtime-main.62308d67.js",
-        "static/css/2.22ca87da.chunk.css",
-        "static/js/2.3bae9d02.chunk.js",
-        "static/css/main.8c84e10c.chunk.css",
-        "static/js/main.c1d7a49a.chunk.js"
-    ]
+  "files": {
+    "main.css": "/cv-react-app/static/css/main.8c84e10c.chunk.css",
+    "main.js": "/cv-react-app/static/js/main.7a49c44e.chunk.js",
+    "main.js.map": "/cv-react-app/static/js/main.7a49c44e.chunk.js.map",
+    "runtime-main.js": "/cv-react-app/static/js/runtime-main.62308d67.js",
+    "runtime-main.js.map": "/cv-react-app/static/js/runtime-main.62308d67.js.map",
+    "static/css/2.22ca87da.chunk.css": "/cv-react-app/static/css/2.22ca87da.chunk.css",
+    "static/js/2.3bae9d02.chunk.js": "/cv-react-app/static/js/2.3bae9d02.chunk.js",
+    "static/js/2.3bae9d02.chunk.js.map": "/cv-react-app/static/js/2.3bae9d02.chunk.js.map",
+    "index.html": "/cv-react-app/index.html",
+    "precache-manifest.e33c2bd47f7cfb3fc44c78afebfe1768.js": "/cv-react-app/precache-manifest.e33c2bd47f7cfb3fc44c78afebfe1768.js",
+    "service-worker.js": "/cv-react-app/service-worker.js",
+    "static/css/2.22ca87da.chunk.css.map": "/cv-react-app/static/css/2.22ca87da.chunk.css.map",
+    "static/css/main.8c84e10c.chunk.css.map": "/cv-react-app/static/css/main.8c84e10c.chunk.css.map",
+    "static/js/2.3bae9d02.chunk.js.LICENSE.txt": "/cv-react-app/static/js/2.3bae9d02.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/cv-react-app/static/media/logo.d809dc68.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62308d67.js",
+    "static/css/2.22ca87da.chunk.css",
+    "static/js/2.3bae9d02.chunk.js",
+    "static/css/main.8c84e10c.chunk.css",
+    "static/js/main.7a49c44e.chunk.js"
+  ]
 }
